@@ -1,3 +1,9 @@
+.container {
+    /* set the dimensions of the container */
+    width: 100%;
+    height: auto;
+  }
+
 .row1{
     width: 100%;
     height: 600px;
@@ -5,6 +11,7 @@
     text-align: center;
     margin-left: -15px;
     margin-right: -15px;
+    color: white;
 
 }
 
@@ -13,3 +20,32 @@
     position: relative;
     font-weight: bold;
 }
+
+.row{
+    text-align: center;
+}
+.para1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    font-weight:300;
+    text-align: center;
+}
+
+.para2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 25px 0px 5px 0px;
+    
+}
+
+.row3 {
+    text-align: center;
+    width: 100%;
+    background-size: cover;
+    padding: 15px 20px;
+    color: white;
+    font-size: 12px;
+    max-width: 100%;
+    height:100%;
+    
+    
+  }
