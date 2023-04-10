@@ -3,7 +3,17 @@
     width: 100%;
     height: auto;
   }
+#hbackground{
+  
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+  padding-top:17%; 
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 
+}
 .row1{
     width: 100%;
     height: 600px;
@@ -21,6 +31,8 @@
     font-weight: bold;
 }
 
+.row1 p{ font-size: 12px;}
+
 .row{
     text-align: center;
 }
@@ -33,8 +45,22 @@
 
 .para2{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 25px 0px 5px 0px;
+    margin: 70px 0px 5px 0px;
     
+}
+#delaniLogo{
+  margin-top: 5%;
+  margin-bottom: 70px;
+  width: 60px;
+  height: 60px;;
+}
+
+#mouse_click {
+  
+  padding-top : 70px;
+  margin-top: 10%;
+  padding-bottom: 5px; 
+  
 }
 
 .row3 {
@@ -79,9 +105,13 @@
     height: 400px;
     text-align: center;
     background-size: cover;
-    
 
   }
+
+  .row7 h3{
+    color: #fff;
+  }
+
   input[type=email],input[type=text]{
     width: 100%;
     background: rgba(0,0,0,0.10);
@@ -94,6 +124,7 @@
 
 input::placeholder,textarea::placeholder {
   font-weight: normal;
+  color: #fff;
   
 
 }
@@ -119,11 +150,6 @@ input::placeholder,textarea::placeholder {
     text-align: center;
   }
   
-  .footer ul li {
-    display: inline-block;
-    margin: 5px;
-  }
-
   .whatWeDo {
     margin-top: 20px;
     margin-right: -25px;
@@ -164,4 +190,31 @@ input::placeholder,textarea::placeholder {
     width: auto;
     margin: auto;
     display: block;
+    
+  }
+
+
+  .contactUs{
+    position: relative;
+    margin-top: 20px;
+    
+
+  }
+
+  .footer{
+    height: 150px;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+  }
+  .footer ul li {
+    display: inline-block;
+    margin: 5px;
+  }
+
+  .submit {
+    float:inherit;
+    border-radius: 2px;
   }
