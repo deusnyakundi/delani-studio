@@ -145,3 +145,23 @@ input::placeholder,textarea::placeholder {
     margin: auto;
     padding-top: 10%;
   }
+
+  .portfolio {
+    position: relative;
+    width: 60%;
+    margin: auto;
+  }
+  
+  .portfolio h1 {
+    margin: 10px;
+    font-family: Signika Negative, sans-serif;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .portfolio img {
+    height: auto;
+    width: auto;
+    margin: auto;
+    display: block;
+  }
