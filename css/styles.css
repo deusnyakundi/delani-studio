@@ -152,7 +152,7 @@ input::placeholder,textarea::placeholder {
     margin: auto;
   }
   
-  .portfolio h1 {
+  .portfolio h3 {
     margin: 10px;
     font-family: Signika Negative, sans-serif;
     text-align: center;
