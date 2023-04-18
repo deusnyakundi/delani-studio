@@ -14,3 +14,73 @@ They collaborate with your team to write, and improve code on a daily basis, usi
 
 Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live. 
 This iterative process allows for changes as business requirements evolve.
+
+
+### Expected MO
+* Should be a responsive website that describes what a fictional studio does
+* The 'What we do'  icons when clicked should toggle between the respective description of each icon. 
+* Should present the user with a form to collect feedback and user data.
+* The project alerts the user that their message has been received.
+
+
+## Author
+Deus Nyakundi
+
+## Technologies used for this project
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- Github
+- Bootstrap
+- jQuery
+
+## Other Resources
+- 
+
+## Setup Information
+
+Use the live link below to view the rendered project or follow the steps below
+
+- git clone https://github.com/deusnyakundi/delani-studio.git
+- Open and extract the cloned folder
+- Open 'index.html' with your browser
+
+##
+If you would like to view the source code:
+- open the extracted folder with your editor. i.e VS-Code, Sublime or Vim
+
+## Live Link
+
+https://deusnyakundi.github.io/delani-studio/
+
+
+## License & Copyright Info
+
+MIT License
+
+Copyright (c) 2023 Nyakundi Deus
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+
+

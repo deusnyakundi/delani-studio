@@ -1,8 +1,4 @@
-.container {
-    /* set the dimensions of the container */
-    width: 100%;
-    height: auto;
-  }
+
 #hbackground{
   
   background-position: center center;
@@ -50,10 +46,10 @@
     
 }
 #delaniLogo{
-  margin-top: 5%;
+  margin-top: 2%;
   margin-bottom: 70px;
-  width: 60px;
-  height: 60px;;
+  width: 75px;
+  height: 75px;;
 }
 
 #mouse_click {
