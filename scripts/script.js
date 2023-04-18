@@ -42,3 +42,34 @@ $(document).ready(function () {
         
     });
 });
+
+
+$(document).ready(function () {
+    $(".img-fluid").hover(function () {
+           $("#overlay").show();
+            
+        }, function () {
+            $("#overlay").hide();
+        }
+    );
+    
+});
+
+$(document).ready(function () {
+    $("#dataForm").submit(function (e) { 
+        e.preventDefault();
+
+        var name = $("#nameInput").val();
+        var email = $("#emailInput").val();
+        var message = $("#messageInput").val();
+
+        if ($("#nameInput").val() && $("#emailInput").val()){
+            alert (name + ", we have received your message. Thank you for reaching out to us.");
+        }
+
+        else{
+            alert("Please enter your name and email")
+        }
+        
+    });
+});
